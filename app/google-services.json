@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "269255938796",
+    "firebase_url": "https://playground-923ac.firebaseio.com",
+    "project_id": "playground-923ac",
+    "storage_bucket": "playground-923ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269255938796:android:e410b9e671a27d2337cbc9",
+        "android_client_info": {
+          "package_name": "com.arioki.reactnativefcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269255938796-mt9utiaijkfibnu5gh1fjkq4hlgndafh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtw6ivcmkhv-medTdwZXCTrsfoljx6n_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269255938796-mt9utiaijkfibnu5gh1fjkq4hlgndafh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269255938796:android:aa736817e671bab837cbc9",
+        "android_client_info": {
+          "package_name": "com.comp30022.team_russia.assist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269255938796-mt9utiaijkfibnu5gh1fjkq4hlgndafh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtw6ivcmkhv-medTdwZXCTrsfoljx6n_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269255938796-mt9utiaijkfibnu5gh1fjkq4hlgndafh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
